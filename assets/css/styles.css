@@ -1,29 +1,130 @@
-/* styles.css */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&family=Quicksand:wght@400;500;700&display=swap');
 
-:root {
-	font-family: Arial, Helvetica, sans-serif;
-	background-color: blanchedalmond;
-	color:brown;
+/* ---------- Reset ---------- */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
 }
 
-h1 {
-	font-family:Georgia, 'Times New Roman', Times, serif;
-	font-size: 3em;
+/* ---------- Body ---------- */
+
+body{
+    background:#f8f6f2;
+    color:#333;
+    font-family:'Quicksand', sans-serif;
+    max-width:900px;
+    margin:auto;
+    padding:50px 20px;
+    text-align:center;
+    line-height:1.8;
 }
 
-.red {
-	color:red;
+/* ---------- Headings ---------- */
+
+h1{
+    font-family:'Cormorant Garamond', serif;
+    font-size:58px;
+    margin-bottom:10px;
 }
 
-a {
-	color: green;
-	font-weight: bold;
-	text-decoration: none;
-	border-bottom: green 2px dashed;
+h2{
+    font-family:'Cormorant Garamond', serif;
+    font-size:32px;
+    color:#666;
+    margin-bottom:30px;
 }
 
-.no-border {
-	border: none;
+/* ---------- Paragraph ---------- */
+
+p{
+    max-width:700px;
+    margin:30px auto;
+    font-size:18px;
+}
+
+/* ---------- Images ---------- */
+
+img{
+    width:450px;
+    max-width:90%;
+    border-radius:18px;
+    box-shadow:0 8px 18px rgba(0,0,0,.15);
+    margin:30px auto;
+    display:block;
+    transition:.3s;
+}
+
+/* Homepage image */
+
+.hero{
+    width:600px;
+}
+
+/* Slight zoom when hovering */
+
+img:hover{
+    transform:scale(1.02);
+}
+
+/* ---------- Links ---------- */
+
+.links{
+    margin-top:35px;
+}
+
+.links a{
+    display:inline-block;
+    margin:10px;
+    padding:12px 24px;
+    background:#e7ddd0;
+    color:#333;
+    text-decoration:none;
+    border-radius:30px;
+    font-weight:600;
+    transition:.25s;
+}
+
+.links a:hover{
+    background:#d4c5b2;
+    transform:translateY(-2px);
+}
+
+/* ---------- Home Link ---------- */
+
+.home{
+    margin-top:40px;
+}
+
+/* ---------- Footer ---------- */
+
+footer{
+    margin-top:60px;
+    color:#888;
+    font-size:14px;
+}
+
+/* ---------- Mobile ---------- */
+
+@media(max-width:700px){
+
+    h1{
+        font-size:42px;
+    }
+
+    p{
+        font-size:16px;
+    }
+
+    img{
+        width:95%;
+    }
+
+    .hero{
+        width:95%;
+    }
+
 }
 
 a:hover {
