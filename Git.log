@@ -1,0 +1,1440 @@
+2026-06-29 14:48:48.270 [info] [main] Log level: Info
+2026-06-29 14:48:48.286 [info] [main] Validating found git in: "/usr/bin/git"
+2026-06-29 14:48:50.308 [info] [main] Using git "2.50.1 (Apple Git-155)" from "/usr/bin/git"
+2026-06-29 14:48:50.308 [info] [Model][doInitialScan] Initial repository scan started
+2026-06-29 14:48:50.309 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-06-29 14:50:42.828 [info] > git clone https://github.com/hamelpeyton-hue/hyperlinkwebsite.git /Users/peyton/hyperlinkwebsite --progress --recursive [7562ms]
+2026-06-29 14:50:42.828 [info] Cloning into '/Users/peyton/hyperlinkwebsite'...
+remote: Enumerating objects: 82, done.        
+remote: Counting objects:   1% (1/82)        
+remote: Counting objects:   2% (2/82)        
+remote: Counting objects:   3% (3/82)        
+remote: Counting objects:   4% (4/82)        
+remote: Counting objects:   6% (5/82)        
+remote: Counting objects:   7% (6/82)        
+remote: Counting objects:   8% (7/82)        
+remote: Counting objects:   9% (8/82)        
+remote: Counting objects:  10% (9/82)        
+remote: Counting objects:  12% (10/82)        
+remote: Counting objects:  13% (11/82)        
+remote: Counting objects:  14% (12/82)        
+remote: Counting objects:  15% (13/82)        
+remote: Counting objects:  17% (14/82)        
+remote: Counting objects:  18% (15/82)        
+remote: Counting objects:  19% (16/82)        
+remote: Counting objects:  20% (17/82)        
+remote: Counting objects:  21% (18/82)        
+remote: Counting objects:  23% (19/82)        
+remote: Counting objects:  24% (20/82)        
+remote: Counting objects:  25% (21/82)        
+remote: Counting objects:  26% (22/82)        
+remote: Counting objects:  28% (23/82)        
+remote: Counting objects:  29% (24/82)        
+remote: Counting objects:  30% (25/82)        
+remote: Counting objects:  31% (26/82)        
+remote: Counting objects:  32% (27/82)        
+remote: Counting objects:  34% (28/82)        
+remote: Counting objects:  35% (29/82)        
+remote: Counting objects:  36% (30/82)        
+remote: Counting objects:  37% (31/82)        
+remote: Counting objects:  39% (32/82)        
+remote: Counting objects:  40% (33/82)        
+remote: Counting objects:  41% (34/82)        
+remote: Counting objects:  42% (35/82)        
+remote: Counting objects:  43% (36/82)        
+remote: Counting objects:  45% (37/82)        
+remote: Counting objects:  46% (38/82)        
+remote: Counting objects:  47% (39/82)        
+remote: Counting objects:  48% (40/82)        
+remote: Counting objects:  50% (41/82)        
+remote: Counting objects:  51% (42/82)        
+remote: Counting objects:  52% (43/82)        
+remote: Counting objects:  53% (44/82)        
+remote: Counting objects:  54% (45/82)        
+remote: Counting objects:  56% (46/82)        
+remote: Counting objects:  57% (47/82)        
+remote: Counting objects:  58% (48/82)        
+remote: Counting objects:  59% (49/82)        
+remote: Counting objects:  60% (50/82)        
+remote: Counting objects:  62% (51/82)        
+remote: Counting objects:  63% (52/82)        
+remote: Counting objects:  64% (53/82)        
+remote: Counting objects:  65% (54/82)        
+remote: Counting objects:  67% (55/82)        
+remote: Counting objects:  68% (56/82)        
+remote: Counting objects:  69% (57/82)        
+remote: Counting objects:  70% (58/82)        
+remote: Counting objects:  71% (59/82)        
+remote: Counting objects:  73% (60/82)        
+remote: Counting objects:  74% (61/82)        
+remote: Counting objects:  75% (62/82)        
+remote: Counting objects:  76% (63/82)        
+remote: Counting objects:  78% (64/82)        
+remote: Counting objects:  79% (65/82)        
+remote: Counting objects:  80% (66/82)        
+remote: Counting objects:  81% (67/82)        
+remote: Counting objects:  82% (68/82)        
+remote: Counting objects:  84% (69/82)        
+remote: Counting objects:  85% (70/82)        
+remote: Counting objects:  86% (71/82)        
+remote: Counting objects:  87% (72/82)        
+remote: Counting objects:  89% (73/82)        
+remote: Counting objects:  90% (74/82)        
+remote: Counting objects:  91% (75/82)        
+remote: Counting objects:  92% (76/82)        
+remote: Counting objects:  93% (77/82)        
+remote: Counting objects:  95% (78/82)        
+remote: Counting objects:  96% (79/82)        
+remote: Counting objects:  97% (80/82)        
+remote: Counting objects:  98% (81/82)        
+remote: Counting objects: 100% (82/82)        
+remote: Counting objects: 100% (82/82), done.        
+remote: Compressing objects:   1% (1/76)        
+remote: Compressing objects:   2% (2/76)        
+remote: Compressing objects:   3% (3/76)        
+remote: Compressing objects:   5% (4/76)        
+remote: Compressing objects:   6% (5/76)        
+remote: Compressing objects:   7% (6/76)        
+remote: Compressing objects:   9% (7/76)        
+remote: Compressing objects:  10% (8/76)        
+remote: Compressing objects:  11% (9/76)        
+remote: Compressing objects:  13% (10/76)        
+remote: Compressing objects:  14% (11/76)        
+remote: Compressing objects:  15% (12/76)        
+remote: Compressing objects:  17% (13/76)        
+remote: Compressing objects:  18% (14/76)        
+remote: Compressing objects:  19% (15/76)        
+remote: Compressing objects:  21% (16/76)        
+remote: Compressing objects:  22% (17/76)        
+remote: Compressing objects:  23% (18/76)        
+remote: Compressing objects:  25% (19/76)        
+remote: Compressing objects:  26% (20/76)        
+remote: Compressing objects:  27% (21/76)        
+remote: Compressing objects:  28% (22/76)        
+remote: Compressing objects:  30% (23/76)        
+remote: Compressing objects:  31% (24/76)        
+remote: Compressing objects:  32% (25/76)        
+remote: Compressing objects:  34% (26/76)        
+remote: Compressing objects:  35% (27/76)        
+remote: Compressing objects:  36% (28/76)        
+remote: Compressing objects:  38% (29/76)        
+remote: Compressing objects:  39% (30/76)        
+remote: Compressing objects:  40% (31/76)        
+remote: Compressing objects:  42% (32/76)        
+remote: Compressing objects:  43% (33/76)        
+remote: Compressing objects:  44% (34/76)        
+remote: Compressing objects:  46% (35/76)        
+remote: Compressing objects:  47% (36/76)        
+remote: Compressing objects:  48% (37/76)        
+remote: Compressing objects:  50% (38/76)        
+remote: Compressing objects:  51% (39/76)        
+remote: Compressing objects:  52% (40/76)        
+remote: Compressing objects:  53% (41/76)        
+remote: Compressing objects:  55% (42/76)        
+remote: Compressing objects:  56% (43/76)        
+remote: Compressing objects:  57% (44/76)        
+remote: Compressing objects:  59% (45/76)        
+remote: Compressing objects:  60% (46/76)        
+remote: Compressing objects:  61% (47/76)        
+remote: Compressing objects:  63% (48/76)        
+remote: Compressing objects:  64% (49/76)        
+remote: Compressing objects:  65% (50/76)        
+remote: Compressing objects:  67% (51/76)        
+remote: Compressing objects:  68% (52/76)        
+remote: Compressing objects:  69% (53/76)        
+remote: Compressing objects:  71% (54/76)        
+remote: Compressing objects:  72% (55/76)        
+remote: Compressing objects:  73% (56/76)        
+remote: Compressing objects:  75% (57/76)        
+remote: Compressing objects:  76% (58/76)        
+remote: Compressing objects:  77% (59/76)        
+remote: Compressing objects:  78% (60/76)        
+remote: Compressing objects:  80% (61/76)        
+remote: Compressing objects:  81% (62/76)        
+remote: Compressing objects:  82% (63/76)        
+remote: Compressing objects:  84% (64/76)        
+remote: Compressing objects:  85% (65/76)        
+remote: Compressing objects:  86% (66/76)        
+remote: Compressing objects:  88% (67/76)        
+remote: Compressing objects:  89% (68/76)        
+remote: Compressing objects:  90% (69/76)        
+remote: Compressing objects:  92% (70/76)        
+remote: Compressing objects:  93% (71/76)        
+remote: Compressing objects:  94% (72/76)        
+remote: Compressing objects:  96% (73/76)        
+remote: Compressing objects:  97% (74/76)        
+remote: Compressing objects:  98% (75/76)        
+remote: Compressing objects: 100% (76/76)        
+remote: Compressing objects: 100% (76/76), done.        
+Receiving objects:   1% (1/82)
+Receiving objects:   2% (2/82)
+Receiving objects:   3% (3/82)
+Receiving objects:   4% (4/82)
+Receiving objects:   6% (5/82)
+Receiving objects:   7% (6/82)
+Receiving objects:   8% (7/82)
+Receiving objects:   9% (8/82)
+Receiving objects:  10% (9/82)
+Receiving objects:  12% (10/82)
+Receiving objects:  13% (11/82)
+Receiving objects:  14% (12/82)
+Receiving objects:  15% (13/82)
+Receiving objects:  17% (14/82)
+Receiving objects:  18% (15/82)
+Receiving objects:  19% (16/82)
+Receiving objects:  20% (17/82)
+Receiving objects:  21% (18/82)
+Receiving objects:  23% (19/82)
+Receiving objects:  24% (20/82)
+Receiving objects:  25% (21/82)
+Receiving objects:  26% (22/82)
+Receiving objects:  28% (23/82)
+Receiving objects:  29% (24/82)
+Receiving objects:  30% (25/82)
+Receiving objects:  31% (26/82)
+Receiving objects:  32% (27/82)
+Receiving objects:  34% (28/82), 3.66 MiB | 6.70 MiB/s
+Receiving objects:  35% (29/82), 3.66 MiB | 6.70 MiB/s
+Receiving objects:  36% (30/82), 3.66 MiB | 6.70 MiB/s
+Receiving objects:  37% (31/82), 3.66 MiB | 6.70 MiB/s
+Receiving objects:  37% (31/82), 11.08 MiB | 10.59 MiB/s
+Receiving objects:  39% (32/82), 11.08 MiB | 10.59 MiB/s
+Receiving objects:  40% (33/82), 17.43 MiB | 11.27 MiB/s
+Receiving objects:  41% (34/82), 17.43 MiB | 11.27 MiB/s
+Receiving objects:  42% (35/82), 17.43 MiB | 11.27 MiB/s
+Receiving objects:  42% (35/82), 22.65 MiB | 10.89 MiB/s
+Receiving objects:  43% (36/82), 22.65 MiB | 10.89 MiB/s
+Receiving objects:  45% (37/82), 22.65 MiB | 10.89 MiB/s
+Receiving objects:  46% (38/82), 26.29 MiB | 10.18 MiB/s
+Receiving objects:  47% (39/82), 26.29 MiB | 10.18 MiB/s
+Receiving objects:  47% (39/82), 30.04 MiB | 9.75 MiB/s 
+Receiving objects:  48% (40/82), 30.04 MiB | 9.75 MiB/s
+Receiving objects:  50% (41/82), 30.04 MiB | 9.75 MiB/s
+Receiving objects:  51% (42/82), 30.04 MiB | 9.75 MiB/s
+Receiving objects:  52% (43/82), 30.04 MiB | 9.75 MiB/s
+Receiving objects:  52% (43/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  53% (44/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  54% (45/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  56% (46/82), 38.13 MiB | 9.32 MiB/s
+remote: Total 82 (delta 20), reused 9 (delta 0), pack-reused 0 (from 0)        
+Receiving objects:  57% (47/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  58% (48/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  59% (49/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  60% (50/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  62% (51/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  63% (52/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  64% (53/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  65% (54/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  67% (55/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  68% (56/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  69% (57/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  70% (58/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  71% (59/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  73% (60/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  74% (61/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  75% (62/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  76% (63/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  78% (64/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  79% (65/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  80% (66/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  81% (67/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  82% (68/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  84% (69/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  85% (70/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  86% (71/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  87% (72/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  89% (73/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  90% (74/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  91% (75/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  92% (76/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  93% (77/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  95% (78/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  96% (79/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  97% (80/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects:  98% (81/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects: 100% (82/82), 38.13 MiB | 9.32 MiB/s
+Receiving objects: 100% (82/82), 42.02 MiB | 9.22 MiB/s, done.
+Resolving deltas:   0% (0/20)
+Resolving deltas:   5% (1/20)
+Resolving deltas:  10% (2/20)
+Resolving deltas:  20% (4/20)
+Resolving deltas:  25% (5/20)
+Resolving deltas:  30% (6/20)
+Resolving deltas:  35% (7/20)
+Resolving deltas:  40% (8/20)
+Resolving deltas:  45% (9/20)
+Resolving deltas:  50% (10/20)
+Resolving deltas:  55% (11/20)
+Resolving deltas:  60% (12/20)
+Resolving deltas:  65% (13/20)
+Resolving deltas:  70% (14/20)
+Resolving deltas:  75% (15/20)
+Resolving deltas:  80% (16/20)
+Resolving deltas:  85% (17/20)
+Resolving deltas:  90% (18/20)
+Resolving deltas:  95% (19/20)
+Resolving deltas: 100% (20/20)
+Resolving deltas: 100% (20/20), done.
+2026-06-29 14:54:52.065 [info] [main] Log level: Info
+2026-06-29 14:54:52.065 [info] [main] Validating found git in: "/usr/bin/git"
+2026-06-29 14:54:52.085 [info] [main] Using git "2.50.1 (Apple Git-155)" from "/usr/bin/git"
+2026-06-29 14:54:52.085 [info] [Model][doInitialScan] Initial repository scan started
+2026-06-29 14:54:52.101 [info] > git rev-parse --show-toplevel [13ms]
+2026-06-29 14:54:52.119 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [17ms]
+2026-06-29 14:54:52.125 [info] [Model][openRepository] Opened repository (path): /Users/peyton/hyperlinkwebsite
+2026-06-29 14:54:52.125 [info] [Model][openRepository] Opened repository (real path): /Users/peyton/hyperlinkwebsite
+2026-06-29 14:54:52.125 [info] [Model][openRepository] Opened repository (kind): repository
+2026-06-29 14:54:52.139 [info] > git rev-parse --show-toplevel [12ms]
+2026-06-29 14:54:52.140 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-06-29 14:54:52.141 [info] > git config --get --local core.virtualfilesystem [15ms]
+2026-06-29 14:54:52.141 [warning] [Git][config] git config failed: Failed to execute git
+2026-06-29 14:54:52.141 [info] > git config --get commit.template [14ms]
+2026-06-29 14:54:52.142 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [13ms]
+2026-06-29 14:54:52.142 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 14:54:52.153 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 14:54:52.168 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 14:54:52.502 [info] > git status -z -uall [348ms]
+2026-06-29 14:54:52.539 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 14:54:52.540 [info] > git config --get commit.template [21ms]
+2026-06-29 14:54:52.540 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [25ms]
+2026-06-29 14:54:52.552 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [30ms]
+2026-06-29 14:54:52.657 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 14:54:52.658 [info] > git show --textconv :index.html [107ms]
+2026-06-29 14:54:52.658 [info] > git config --get --local branch.main.vscode-merge-base [117ms]
+2026-06-29 14:54:52.658 [warning] [Git][config] git config failed: Failed to execute git
+2026-06-29 14:54:52.671 [info] > git ls-files --stage -- index.html [120ms]
+2026-06-29 14:54:52.682 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 14:54:52.682 [info] > git reflog main --grep-reflog=branch: Created from *. [23ms]
+2026-06-29 14:54:52.691 [info] > git rev-parse refs/remotes/origin/main [34ms]
+2026-06-29 14:54:52.693 [info] > git cat-file -s bf1f3ecf4a7beab52463b399cce49a712da36014 [21ms]
+2026-06-29 14:54:52.695 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [12ms]
+2026-06-29 14:54:52.708 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/origin/main refs/remotes/origin/main [13ms]
+2026-06-29 14:54:52.708 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [16ms]
+2026-06-29 14:54:52.721 [info] > git config --add --local branch.main.vscode-merge-base origin/main [13ms]
+2026-06-29 14:54:52.724 [info] > git status -z -uall [33ms] (cancelled)
+2026-06-29 14:54:52.735 [info] > git config --get commit.template [12ms]
+2026-06-29 14:54:52.735 [info] > git config --get commit.template [12ms]
+2026-06-29 14:54:52.737 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [11ms]
+2026-06-29 14:54:52.737 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [12ms]
+2026-06-29 14:54:52.737 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 14:54:52.738 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 14:54:52.748 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 14:54:52.750 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2026-06-29 14:54:52.760 [info] > git merge-base refs/heads/main refs/remotes/origin/main [11ms]
+2026-06-29 14:54:52.761 [info] > git merge-base refs/heads/main refs/remotes/origin/main [11ms]
+2026-06-29 14:54:52.762 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [11ms]
+2026-06-29 14:54:52.773 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6...refs/remotes/origin/main -- [12ms]
+2026-06-29 14:54:52.774 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6...refs/remotes/origin/main -- [12ms]
+2026-06-29 14:54:52.875 [info] > git check-ignore -v -z --stdin [12ms]
+2026-06-29 14:54:52.989 [info] > git status -z -uall [239ms]
+2026-06-29 14:54:54.071 [info] > git ls-files --stage -- index.html [16ms]
+2026-06-29 14:54:54.087 [info] > git cat-file -s bf1f3ecf4a7beab52463b399cce49a712da36014 [15ms]
+2026-06-29 14:54:54.101 [info] > git show --textconv :index.html [13ms]
+2026-06-29 14:55:31.964 [info] > git blame --root --incremental 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- index.html [18ms]
+2026-06-29 14:55:35.247 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 14:55:57.885 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 14:59:40.864 [info] > git check-ignore -v -z --stdin [13ms]
+2026-06-29 14:59:59.202 [info] > git config --get commit.template [13ms]
+2026-06-29 14:59:59.205 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [15ms]
+2026-06-29 14:59:59.205 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 14:59:59.216 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 14:59:59.229 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [11ms]
+2026-06-29 14:59:59.506 [info] > git status -z -uall [289ms]
+2026-06-29 14:59:59.823 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:00:05.894 [info] > git check-ignore -v -z --stdin [12ms]
+2026-06-29 15:00:07.769 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:00:07.782 [info] > git ls-files --stage -- page-2.html [11ms]
+2026-06-29 15:00:07.783 [info] > git show --textconv :page-2.html [12ms]
+2026-06-29 15:00:07.793 [info] > git cat-file -s dc606cf283b269a03ddec0a8a2806415b11561a7 [11ms]
+2026-06-29 15:00:11.731 [info] > git blame --root --incremental 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- page-2.html [16ms]
+2026-06-29 15:00:13.824 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:00:17.125 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:00:21.402 [info] > git config --get commit.template [13ms]
+2026-06-29 15:00:21.403 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [13ms]
+2026-06-29 15:00:21.404 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:00:21.415 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:00:21.428 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-06-29 15:00:21.658 [info] > git status -z -uall [242ms]
+2026-06-29 15:00:21.977 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:00:24.106 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:00:24.119 [info] > git ls-files --stage -- page-3.html [11ms]
+2026-06-29 15:00:24.120 [info] > git show --textconv :page-3.html [12ms]
+2026-06-29 15:00:24.130 [info] > git cat-file -s 8975f7e98af582fc8943e3dd99aea47a830b33be [10ms]
+2026-06-29 15:00:25.672 [info] > git blame --root --incremental 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- page-3.html [17ms]
+2026-06-29 15:00:27.104 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:00:28.533 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:00:29.806 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:00:30.720 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:00:33.810 [info] > git check-ignore -v -z --stdin [12ms]
+2026-06-29 15:00:33.823 [info] > git ls-files --stage -- page-4.html [11ms]
+2026-06-29 15:00:33.824 [info] > git show --textconv :page-4.html [13ms]
+2026-06-29 15:00:33.835 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [11ms]
+2026-06-29 15:00:33.858 [info] > git blame --root --incremental 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- page-4.html [13ms]
+2026-06-29 15:00:36.417 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:00:38.119 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:00:42.516 [info] > git config --get commit.template [13ms]
+2026-06-29 15:00:42.517 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [13ms]
+2026-06-29 15:00:42.518 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:00:42.531 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2026-06-29 15:00:42.545 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-06-29 15:00:42.780 [info] > git status -z -uall [249ms]
+2026-06-29 15:00:43.239 [info] > git check-ignore -v -z --stdin [13ms]
+2026-06-29 15:00:43.252 [info] > git ls-files --stage -- page-5.html [11ms]
+2026-06-29 15:00:43.252 [info] > git show --textconv :page-5.html [12ms]
+2026-06-29 15:00:43.263 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [11ms]
+2026-06-29 15:00:43.282 [info] > git blame --root --incremental 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- page-5.html [13ms]
+2026-06-29 15:00:46.044 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:00:48.923 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:00:48.937 [info] > git ls-files --stage -- page-6.html [12ms]
+2026-06-29 15:00:48.938 [info] > git show --textconv :page-6.html [13ms]
+2026-06-29 15:00:48.949 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [12ms]
+2026-06-29 15:00:51.271 [info] > git config --get commit.template [20ms]
+2026-06-29 15:00:51.272 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [19ms]
+2026-06-29 15:00:51.273 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:00:51.283 [info] > git rev-parse refs/remotes/origin/main [9ms]
+2026-06-29 15:00:51.294 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [10ms]
+2026-06-29 15:00:51.517 [info] > git status -z -uall [234ms]
+2026-06-29 15:00:53.919 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:00:53.933 [info] > git ls-files --stage -- index.html [12ms]
+2026-06-29 15:00:53.934 [info] > git show --textconv :index.html [13ms]
+2026-06-29 15:00:53.944 [info] > git cat-file -s bf1f3ecf4a7beab52463b399cce49a712da36014 [11ms]
+2026-06-29 15:00:57.968 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:00:57.981 [info] > git ls-files --stage -- page-2.html [11ms]
+2026-06-29 15:00:57.982 [info] > git show --textconv :page-2.html [12ms]
+2026-06-29 15:00:57.992 [info] > git cat-file -s dc606cf283b269a03ddec0a8a2806415b11561a7 [11ms]
+2026-06-29 15:01:00.956 [info] > git check-ignore -v -z --stdin [13ms]
+2026-06-29 15:01:00.969 [info] > git ls-files --stage -- page-3.html [12ms]
+2026-06-29 15:01:00.970 [info] > git show --textconv :page-3.html [13ms]
+2026-06-29 15:01:00.980 [info] > git cat-file -s 8975f7e98af582fc8943e3dd99aea47a830b33be [11ms]
+2026-06-29 15:01:02.322 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:01:02.334 [info] > git ls-files --stage -- page-4.html [11ms]
+2026-06-29 15:01:02.335 [info] > git show --textconv :page-4.html [12ms]
+2026-06-29 15:01:02.345 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [10ms]
+2026-06-29 15:01:03.464 [info] > git check-ignore -v -z --stdin [13ms]
+2026-06-29 15:01:03.477 [info] > git ls-files --stage -- page-5.html [11ms]
+2026-06-29 15:01:03.477 [info] > git show --textconv :page-5.html [12ms]
+2026-06-29 15:01:03.488 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [11ms]
+2026-06-29 15:01:04.522 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:01:04.537 [info] > git ls-files --stage -- page-6.html [13ms]
+2026-06-29 15:01:04.538 [info] > git show --textconv :page-6.html [15ms]
+2026-06-29 15:01:04.551 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [13ms]
+2026-06-29 15:01:05.421 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:01:05.436 [info] > git ls-files --stage -- page-5.html [13ms]
+2026-06-29 15:01:05.437 [info] > git show --textconv :page-5.html [14ms]
+2026-06-29 15:01:05.449 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [12ms]
+2026-06-29 15:02:04.085 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:02:04.101 [info] > git ls-files --stage -- page-6.html [13ms]
+2026-06-29 15:02:04.102 [info] > git show --textconv :page-6.html [15ms]
+2026-06-29 15:02:04.114 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [12ms]
+2026-06-29 15:02:10.072 [info] > git blame --root --incremental 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- page-6.html [20ms]
+2026-06-29 15:02:14.706 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:02:38.327 [info] > git config --get commit.template [17ms]
+2026-06-29 15:02:38.329 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [17ms]
+2026-06-29 15:02:38.329 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:02:38.342 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:02:38.356 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:02:38.584 [info] > git status -z -uall [242ms]
+2026-06-29 15:02:38.905 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:02:39.978 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [124ms]
+2026-06-29 15:02:40.572 [info] > git merge-base main origin/main [16ms]
+2026-06-29 15:02:43.394 [info] > git add -A -- . [247ms]
+2026-06-29 15:02:43.409 [info] > git -c user.useConfigOnly=true commit --quiet [14ms]
+2026-06-29 15:02:43.409 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2026-06-29 15:02:43.423 [info] > git config --get-all user.name [13ms]
+2026-06-29 15:02:43.435 [info] > git config --get commit.template [11ms]
+2026-06-29 15:02:43.437 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [13ms]
+2026-06-29 15:02:43.438 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:02:43.449 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:02:43.463 [info] > git status -z -uall [14ms]
+2026-06-29 15:02:43.464 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-06-29 15:02:43.787 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:02:44.569 [info] > git config --get commit.template [15ms]
+2026-06-29 15:02:44.571 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [16ms]
+2026-06-29 15:02:44.572 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:02:44.584 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:02:44.599 [info] > git status -z -uall [14ms]
+2026-06-29 15:02:44.600 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-06-29 15:02:44.668 [info] > git ls-files --stage -- page-6.html [13ms]
+2026-06-29 15:02:44.680 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [12ms]
+2026-06-29 15:02:44.695 [info] > git show --textconv :page-6.html [13ms]
+2026-06-29 15:02:55.865 [info] > git -c user.useConfigOnly=true commit --quiet [22ms]
+2026-06-29 15:02:55.865 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2026-06-29 15:02:55.880 [info] > git config --get-all user.name [14ms]
+2026-06-29 15:02:55.894 [info] > git config --get commit.template [13ms]
+2026-06-29 15:02:55.895 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [13ms]
+2026-06-29 15:02:55.896 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:02:55.908 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:02:55.923 [info] > git status -z -uall [14ms]
+2026-06-29 15:02:55.923 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-06-29 15:02:56.971 [info] > git config --get commit.template [15ms]
+2026-06-29 15:02:56.972 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [15ms]
+2026-06-29 15:02:56.973 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:02:56.986 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2026-06-29 15:02:57.001 [info] > git status -z -uall [14ms]
+2026-06-29 15:02:57.001 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-06-29 15:02:57.071 [info] > git ls-files --stage -- page-6.html [15ms]
+2026-06-29 15:02:57.086 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [14ms]
+2026-06-29 15:02:57.105 [info] > git show --textconv :page-6.html [14ms]
+2026-06-29 15:03:05.649 [info] > git -c user.useConfigOnly=true commit --quiet [18ms]
+2026-06-29 15:03:05.649 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2026-06-29 15:03:05.662 [info] > git config --get-all user.name [13ms]
+2026-06-29 15:03:05.676 [info] > git config --get commit.template [13ms]
+2026-06-29 15:03:05.678 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [14ms]
+2026-06-29 15:03:05.678 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:03:05.690 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:03:05.705 [info] > git status -z -uall [14ms]
+2026-06-29 15:03:05.705 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-06-29 15:03:06.755 [info] > git config --get commit.template [16ms]
+2026-06-29 15:03:06.756 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [17ms]
+2026-06-29 15:03:06.757 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:03:06.769 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:03:06.784 [info] > git status -z -uall [14ms]
+2026-06-29 15:03:06.784 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-06-29 15:03:06.852 [info] > git ls-files --stage -- page-6.html [14ms]
+2026-06-29 15:03:06.867 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [14ms]
+2026-06-29 15:03:06.883 [info] > git show --textconv :page-6.html [14ms]
+2026-06-29 15:03:19.140 [info] > git -c user.useConfigOnly=true commit --quiet [21ms]
+2026-06-29 15:03:19.140 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2026-06-29 15:03:19.155 [info] > git config --get-all user.name [14ms]
+2026-06-29 15:03:19.169 [info] > git config --get commit.template [13ms]
+2026-06-29 15:03:19.170 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [14ms]
+2026-06-29 15:03:19.171 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:03:19.182 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:03:19.196 [info] > git status -z -uall [13ms]
+2026-06-29 15:03:19.196 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:03:20.254 [info] > git config --get commit.template [22ms]
+2026-06-29 15:03:20.257 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [23ms]
+2026-06-29 15:03:20.258 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:03:20.270 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2026-06-29 15:03:20.283 [info] > git status -z -uall [12ms]
+2026-06-29 15:03:20.283 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [11ms]
+2026-06-29 15:03:20.343 [info] > git ls-files --stage -- page-6.html [12ms]
+2026-06-29 15:03:20.354 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [11ms]
+2026-06-29 15:03:20.367 [info] > git show --textconv :page-6.html [12ms]
+2026-06-29 15:03:22.537 [info] > git -c user.useConfigOnly=true commit --quiet [21ms]
+2026-06-29 15:03:22.537 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2026-06-29 15:03:22.549 [info] > git config --get-all user.name [12ms]
+2026-06-29 15:03:22.560 [info] > git config --get commit.template [11ms]
+2026-06-29 15:03:22.561 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [11ms]
+2026-06-29 15:03:22.562 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:03:22.572 [info] > git rev-parse refs/remotes/origin/main [10ms]
+2026-06-29 15:03:22.586 [info] > git status -z -uall [13ms]
+2026-06-29 15:03:22.586 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:03:23.752 [info] > git ls-files --stage -- page-6.html [21ms]
+2026-06-29 15:03:23.766 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [13ms]
+2026-06-29 15:03:23.779 [info] > git show --textconv :page-6.html [12ms]
+2026-06-29 15:03:25.309 [info] > git config --get commit.template [20ms]
+2026-06-29 15:03:25.311 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [21ms]
+2026-06-29 15:03:25.311 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:03:25.321 [info] > git rev-parse refs/remotes/origin/main [10ms]
+2026-06-29 15:03:25.332 [info] > git status -z -uall [10ms]
+2026-06-29 15:03:25.333 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [11ms]
+2026-06-29 15:04:34.431 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [78ms]
+2026-06-29 15:04:34.450 [info] > git merge-base main origin/main [13ms]
+2026-06-29 15:04:44.267 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:04:44.281 [info] > git ls-files --stage -- page-5.html [11ms]
+2026-06-29 15:04:44.282 [info] > git show --textconv :page-5.html [13ms]
+2026-06-29 15:04:44.283 [info] > git ls-tree -l HEAD -- page-5.html [13ms]
+2026-06-29 15:04:44.283 [info] > git show --textconv HEAD:page-5.html [14ms]
+2026-06-29 15:04:44.293 [info] > git cat-file -s 58b8f55fc0a9976fcb1504ca59c0ea335e44397d [11ms]
+2026-06-29 15:04:45.297 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:04:45.310 [info] > git ls-files --stage -- page-6.html [10ms]
+2026-06-29 15:04:45.311 [info] > git show --textconv :page-6.html [12ms]
+2026-06-29 15:04:45.321 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [11ms]
+2026-06-29 15:05:42.409 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:06:02.511 [info] > git config --get commit.template [23ms]
+2026-06-29 15:06:02.513 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [23ms]
+2026-06-29 15:06:02.514 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:06:02.526 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:06:02.539 [info] > git status -z -uall [12ms]
+2026-06-29 15:06:02.540 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-06-29 15:06:02.859 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:06:07.557 [info] > git config --get commit.template [13ms]
+2026-06-29 15:06:07.558 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [13ms]
+2026-06-29 15:06:07.559 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:06:07.570 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:06:07.582 [info] > git status -z -uall [12ms]
+2026-06-29 15:06:07.583 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-06-29 15:06:29.997 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:06:30.010 [info] > git ls-files --stage -- page-7.html [11ms]
+2026-06-29 15:06:30.011 [info] > git show --textconv :page-7.html [13ms]
+2026-06-29 15:06:30.021 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [11ms]
+2026-06-29 15:06:40.317 [info] > git blame --root --incremental 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- page-7.html [16ms]
+2026-06-29 15:06:42.790 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:06:45.559 [info] > git check-ignore -v -z --stdin [12ms]
+2026-06-29 15:06:46.563 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:06:49.631 [info] > git config --get commit.template [18ms]
+2026-06-29 15:06:49.633 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [19ms]
+2026-06-29 15:06:49.634 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:06:49.650 [info] > git rev-parse refs/remotes/origin/main [16ms]
+2026-06-29 15:06:49.668 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [17ms]
+2026-06-29 15:06:49.668 [info] > git status -z -uall [17ms]
+2026-06-29 15:06:49.985 [info] > git check-ignore -v -z --stdin [12ms]
+2026-06-29 15:06:53.859 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:06:53.872 [info] > git ls-files --stage -- page-8.html [11ms]
+2026-06-29 15:06:53.873 [info] > git show --textconv :page-8.html [12ms]
+2026-06-29 15:06:53.884 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [11ms]
+2026-06-29 15:07:02.372 [info] > git blame --root --incremental 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- page-8.html [16ms]
+2026-06-29 15:07:04.522 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:07:08.609 [info] > git config --get commit.template [13ms]
+2026-06-29 15:07:08.610 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [13ms]
+2026-06-29 15:07:08.611 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:07:08.623 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:07:08.637 [info] > git status -z -uall [14ms]
+2026-06-29 15:07:08.637 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:07:08.957 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:07:09.353 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:07:09.369 [info] > git ls-files --stage -- page-9.html [13ms]
+2026-06-29 15:07:09.370 [info] > git show --textconv :page-9.html [15ms]
+2026-06-29 15:07:09.383 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [14ms]
+2026-06-29 15:07:17.085 [info] > git blame --root --incremental 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- page-9.html [18ms]
+2026-06-29 15:07:19.614 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:07:24.135 [info] > git config --get commit.template [19ms]
+2026-06-29 15:07:24.137 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [20ms]
+2026-06-29 15:07:24.138 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:07:24.151 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2026-06-29 15:07:24.168 [info] > git status -z -uall [16ms]
+2026-06-29 15:07:24.168 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [15ms]
+2026-06-29 15:07:24.565 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:07:24.581 [info] > git ls-files --stage -- page-10.html [14ms]
+2026-06-29 15:07:24.583 [info] > git show --textconv :page-10.html [16ms]
+2026-06-29 15:07:24.594 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [12ms]
+2026-06-29 15:07:30.134 [info] > git blame --root --incremental 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- page-10.html [18ms]
+2026-06-29 15:07:35.642 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:07:39.429 [info] > git config --get commit.template [17ms]
+2026-06-29 15:07:39.430 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [17ms]
+2026-06-29 15:07:39.431 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:07:39.445 [info] > git rev-parse refs/remotes/origin/main [14ms]
+2026-06-29 15:07:39.460 [info] > git status -z -uall [14ms]
+2026-06-29 15:07:39.460 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-06-29 15:07:39.782 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:16:11.819 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:16:11.833 [info] > git ls-files --stage -- index.html [12ms]
+2026-06-29 15:16:11.834 [info] > git show --textconv :index.html [14ms]
+2026-06-29 15:16:11.834 [info] > git show --textconv HEAD:index.html [13ms]
+2026-06-29 15:16:11.834 [info] > git ls-tree -l HEAD -- index.html [12ms]
+2026-06-29 15:16:11.845 [info] > git cat-file -s 340e5ec39f937bf5f8da7c8e80f65f1766ae0924 [12ms]
+2026-06-29 15:16:16.809 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:16:24.720 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:16:26.894 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:16:31.390 [info] > git config --get commit.template [20ms]
+2026-06-29 15:16:31.391 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [20ms]
+2026-06-29 15:16:31.392 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:16:31.402 [info] > git rev-parse refs/remotes/origin/main [10ms]
+2026-06-29 15:16:31.413 [info] > git status -z -uall [11ms]
+2026-06-29 15:16:31.413 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [10ms]
+2026-06-29 15:16:31.737 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:16:36.435 [info] > git config --get commit.template [16ms]
+2026-06-29 15:16:36.436 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [15ms]
+2026-06-29 15:16:36.437 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:16:36.447 [info] > git rev-parse refs/remotes/origin/main [10ms]
+2026-06-29 15:16:36.460 [info] > git status -z -uall [12ms]
+2026-06-29 15:16:36.460 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-06-29 15:17:48.473 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:17:48.995 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:17:51.325 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:18:07.476 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:18:08.502 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:18:08.709 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:18:09.764 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:18:12.138 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:18:22.741 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:18:22.992 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:18:24.180 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:18:24.526 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:18:25.123 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:18:27.175 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:18:33.101 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:18:33.358 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:18:48.316 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:18:48.620 [info] > git check-ignore -v -z --stdin [11ms]
+2026-06-29 15:18:49.131 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:18:58.005 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:18:58.529 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:18:59.304 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:18:59.596 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:19:00.069 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:19:00.316 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:19:00.638 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:19:00.932 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:19:01.225 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:19:01.683 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:19:02.355 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:19:02.606 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:19:04.894 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:19:10.380 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:19:13.365 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:19:13.944 [info] > git check-ignore -v -z --stdin [13ms]
+2026-06-29 15:19:22.112 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:19:23.795 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:19:39.739 [info] > git config --get commit.template [16ms]
+2026-06-29 15:19:39.743 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [19ms]
+2026-06-29 15:19:39.743 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:19:39.755 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:19:39.772 [info] > git status -z -uall [16ms]
+2026-06-29 15:19:39.772 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [16ms]
+2026-06-29 15:19:44.795 [info] > git config --get commit.template [18ms]
+2026-06-29 15:19:44.796 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [17ms]
+2026-06-29 15:19:44.797 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:19:44.809 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:19:44.824 [info] > git status -z -uall [14ms]
+2026-06-29 15:19:44.824 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-06-29 15:23:44.537 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:23:44.550 [info] > git ls-files --stage -- page-2.html [11ms]
+2026-06-29 15:23:44.552 [info] > git ls-tree -l HEAD -- page-2.html [13ms]
+2026-06-29 15:23:44.552 [info] > git show --textconv :page-2.html [14ms]
+2026-06-29 15:23:44.552 [info] > git show --textconv HEAD:page-2.html [13ms]
+2026-06-29 15:23:44.562 [info] > git cat-file -s c4be663aff99b4957d6971a3e76331fa50a050fb [11ms]
+2026-06-29 15:23:48.734 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:23:51.648 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:23:54.621 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:23:56.460 [info] > git check-ignore -v -z --stdin [24ms]
+2026-06-29 15:24:00.804 [info] > git config --get commit.template [18ms]
+2026-06-29 15:24:00.807 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [20ms]
+2026-06-29 15:24:00.807 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:24:00.818 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:24:00.829 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [10ms]
+2026-06-29 15:24:00.829 [info] > git status -z -uall [11ms]
+2026-06-29 15:24:01.149 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:24:01.149 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:24:05.854 [info] > git config --get commit.template [19ms]
+2026-06-29 15:24:05.855 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [20ms]
+2026-06-29 15:24:05.855 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:24:05.865 [info] > git rev-parse refs/remotes/origin/main [10ms]
+2026-06-29 15:24:05.876 [info] > git status -z -uall [10ms]
+2026-06-29 15:24:05.877 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [11ms]
+2026-06-29 15:25:29.326 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:25:30.697 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:25:31.336 [info] > git check-ignore -v -z --stdin [13ms]
+2026-06-29 15:25:31.348 [info] > git ls-files --stage -- assets/css/styles.css [10ms]
+2026-06-29 15:25:31.349 [info] > git show --textconv :assets/css/styles.css [12ms]
+2026-06-29 15:25:31.361 [info] > git cat-file -s 02782a3099f3a60816a10413e1d3961d1e8d1a9a [12ms]
+2026-06-29 15:25:34.139 [info] > git blame --root --incremental 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- assets/css/styles.css [19ms]
+2026-06-29 15:25:35.390 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:25:38.461 [info] > git config --get commit.template [17ms]
+2026-06-29 15:25:38.462 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [17ms]
+2026-06-29 15:25:38.463 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:25:38.476 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2026-06-29 15:25:38.489 [info] > git status -z -uall [13ms]
+2026-06-29 15:25:38.489 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-06-29 15:25:38.810 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:25:38.811 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:25:42.417 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:25:42.436 [info] > git ls-files --stage -- page-3.html [16ms]
+2026-06-29 15:25:42.438 [info] > git ls-tree -l HEAD -- page-3.html [17ms]
+2026-06-29 15:25:42.438 [info] > git show --textconv :page-3.html [19ms]
+2026-06-29 15:25:42.438 [info] > git show --textconv HEAD:page-3.html [18ms]
+2026-06-29 15:25:42.453 [info] > git cat-file -s e3e961cc9b2f1add99ceccd6bc9a856e8dbe0be5 [16ms]
+2026-06-29 15:26:40.592 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:26:43.394 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:26:56.028 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:27:06.805 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:27:42.711 [info] > git config --get commit.template [14ms]
+2026-06-29 15:27:42.713 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [15ms]
+2026-06-29 15:27:42.714 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:27:42.725 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:27:42.738 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-06-29 15:27:42.739 [info] > git status -z -uall [14ms]
+2026-06-29 15:27:43.058 [info] > git check-ignore -v -z --stdin [13ms]
+2026-06-29 15:27:43.058 [info] > git check-ignore -v -z --stdin [12ms]
+2026-06-29 15:27:46.999 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:27:47.015 [info] > git ls-files --stage -- page-4.html [14ms]
+2026-06-29 15:27:47.016 [info] > git ls-tree -l HEAD -- page-4.html [14ms]
+2026-06-29 15:27:47.016 [info] > git show --textconv HEAD:page-4.html [15ms]
+2026-06-29 15:27:47.017 [info] > git show --textconv :page-4.html [16ms]
+2026-06-29 15:27:47.027 [info] > git cat-file -s 44732bb091bd7931fb39d2bb47fdcbd498280815 [12ms]
+2026-06-29 15:28:26.883 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:28:30.394 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:28:33.829 [info] > git config --get commit.template [16ms]
+2026-06-29 15:28:33.830 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [16ms]
+2026-06-29 15:28:33.831 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:28:33.841 [info] > git rev-parse refs/remotes/origin/main [10ms]
+2026-06-29 15:28:33.852 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [10ms]
+2026-06-29 15:28:33.852 [info] > git status -z -uall [11ms]
+2026-06-29 15:28:34.175 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:28:34.176 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:29:34.524 [info] > git config --get commit.template [13ms]
+2026-06-29 15:29:34.525 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [13ms]
+2026-06-29 15:29:34.526 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:29:34.538 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:29:34.552 [info] > git status -z -uall [14ms]
+2026-06-29 15:29:34.552 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:29:34.818 [info] > git check-ignore -v -z --stdin [13ms]
+2026-06-29 15:29:34.833 [info] > git ls-files --stage -- page-5.html [13ms]
+2026-06-29 15:29:34.833 [info] > git ls-tree -l HEAD -- page-5.html [12ms]
+2026-06-29 15:29:34.834 [info] > git show --textconv HEAD:page-5.html [14ms]
+2026-06-29 15:29:34.834 [info] > git show --textconv :page-5.html [14ms]
+2026-06-29 15:29:34.845 [info] > git cat-file -s 58b8f55fc0a9976fcb1504ca59c0ea335e44397d [12ms]
+2026-06-29 15:29:42.865 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:29:46.412 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:29:48.568 [info] > git config --get commit.template [20ms]
+2026-06-29 15:29:48.570 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [20ms]
+2026-06-29 15:29:48.571 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:29:48.582 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:29:48.594 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [11ms]
+2026-06-29 15:29:48.594 [info] > git status -z -uall [12ms]
+2026-06-29 15:29:48.920 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:29:48.920 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:29:50.980 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:29:50.994 [info] > git ls-files --stage -- page-6.html [12ms]
+2026-06-29 15:29:50.995 [info] > git show --textconv :page-6.html [14ms]
+2026-06-29 15:29:51.007 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [12ms]
+2026-06-29 15:29:55.539 [info] > git config --get commit.template [13ms]
+2026-06-29 15:29:55.541 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [14ms]
+2026-06-29 15:29:55.541 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:29:55.554 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2026-06-29 15:29:55.568 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:29:55.568 [info] > git status -z -uall [14ms]
+2026-06-29 15:30:03.251 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:30:03.265 [info] > git ls-files --stage -- page-5.html [12ms]
+2026-06-29 15:30:03.266 [info] > git ls-tree -l HEAD -- page-5.html [12ms]
+2026-06-29 15:30:03.266 [info] > git show --textconv :page-5.html [13ms]
+2026-06-29 15:30:03.266 [info] > git show --textconv HEAD:page-5.html [13ms]
+2026-06-29 15:30:03.283 [info] > git cat-file -s 58b8f55fc0a9976fcb1504ca59c0ea335e44397d [18ms]
+2026-06-29 15:31:15.858 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:31:15.873 [info] > git ls-files --stage -- page-6.html [13ms]
+2026-06-29 15:31:15.874 [info] > git show --textconv :page-6.html [14ms]
+2026-06-29 15:31:15.887 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [13ms]
+2026-06-29 15:31:20.392 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:31:23.198 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:31:36.276 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:31:37.689 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:31:37.992 [info] > git check-ignore -v -z --stdin [13ms]
+2026-06-29 15:31:40.006 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:31:40.973 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:31:43.924 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:32:05.115 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:32:57.829 [info] > git config --get commit.template [18ms]
+2026-06-29 15:32:57.832 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [20ms]
+2026-06-29 15:32:57.833 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:32:57.844 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:32:57.859 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:32:57.859 [info] > git status -z -uall [14ms]
+2026-06-29 15:32:58.153 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:32:58.170 [info] > git ls-files --stage -- page-7.html [15ms]
+2026-06-29 15:32:58.172 [info] > git show --textconv :page-7.html [17ms]
+2026-06-29 15:32:58.185 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [14ms]
+2026-06-29 15:33:05.811 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:33:09.124 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:33:28.330 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:33:29.336 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:33:30.917 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:33:33.782 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:33:34.618 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:33:36.144 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:33:38.580 [info] > git check-ignore -v -z --stdin [12ms]
+2026-06-29 15:33:39.783 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:33:40.663 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:33:42.678 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:33:43.670 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:33:45.156 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:33:45.403 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:33:45.801 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:33:46.221 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:33:46.651 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:33:49.289 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:33:49.729 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:33:50.248 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:33:50.531 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:33:50.929 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:33:52.074 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:33:53.304 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:33:53.554 [info] > git check-ignore -v -z --stdin [11ms]
+2026-06-29 15:33:54.044 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:33:54.425 [info] > git check-ignore -v -z --stdin [27ms]
+2026-06-29 15:33:55.088 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:33:56.758 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:33:57.573 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:33:58.701 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:33:59.873 [info] > git check-ignore -v -z --stdin [24ms]
+2026-06-29 15:34:00.085 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:34:00.875 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:34:01.306 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:34:01.615 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:34:02.962 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:34:09.162 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:34:11.678 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:34:28.399 [info] > git config --get commit.template [18ms]
+2026-06-29 15:34:28.400 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [18ms]
+2026-06-29 15:34:28.401 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:34:28.412 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:34:28.426 [info] > git status -z -uall [13ms]
+2026-06-29 15:34:28.426 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:35:00.774 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:35:00.786 [info] > git ls-files --stage -- page-8.html [10ms]
+2026-06-29 15:35:00.788 [info] > git show --textconv :page-8.html [13ms]
+2026-06-29 15:35:00.797 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [11ms]
+2026-06-29 15:35:04.667 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:35:06.687 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:35:07.643 [info] > git check-ignore -v -z --stdin [23ms]
+2026-06-29 15:35:12.079 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:35:30.199 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:35:36.209 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:35:43.820 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:35:44.489 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:35:44.923 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:35:46.025 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:35:50.756 [info] > git check-ignore -v -z --stdin [12ms]
+2026-06-29 15:35:51.857 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:36:29.522 [info] > git config --get commit.template [14ms]
+2026-06-29 15:36:29.524 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [15ms]
+2026-06-29 15:36:29.525 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:36:29.536 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:36:29.549 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-06-29 15:36:29.550 [info] > git status -z -uall [13ms]
+2026-06-29 15:36:29.869 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:36:29.891 [info] > git ls-files --stage -- page-9.html [20ms]
+2026-06-29 15:36:29.893 [info] > git show --textconv :page-9.html [23ms]
+2026-06-29 15:36:29.906 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [14ms]
+2026-06-29 15:36:33.628 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:36:36.607 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:36:45.911 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:36:52.144 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:36:52.431 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:36:52.866 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:36:53.495 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:36:53.835 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:36:54.273 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:36:56.298 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:36:56.771 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:36:57.650 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:36:58.296 [info] > git check-ignore -v -z --stdin [13ms]
+2026-06-29 15:36:58.540 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:36:59.176 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:37:01.264 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:37:01.699 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:37:01.919 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:37:02.236 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:37:02.614 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:37:03.619 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:37:04.048 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:37:08.404 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:37:09.076 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:37:11.692 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:37:12.306 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:37:13.294 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:37:13.649 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:37:14.370 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:37:15.234 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:37:15.777 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:37:16.347 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:37:16.690 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:37:17.052 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:37:17.442 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:37:18.799 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:37:20.222 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:37:20.504 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:37:20.811 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:37:21.510 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:37:23.660 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:37:24.410 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:37:24.795 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:37:25.400 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:37:25.876 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:37:26.204 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:37:26.470 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:37:31.538 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:37:37.063 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:37:38.376 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:37:38.899 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:37:39.832 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:37:40.153 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:37:40.411 [info] > git check-ignore -v -z --stdin [23ms]
+2026-06-29 15:37:40.794 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:37:41.188 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:37:42.986 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:37:43.307 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:37:44.853 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:37:45.616 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:37:50.822 [info] > git config --get commit.template [17ms]
+2026-06-29 15:37:50.824 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [18ms]
+2026-06-29 15:37:50.825 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:37:50.838 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2026-06-29 15:37:50.853 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:37:50.853 [info] > git status -z -uall [14ms]
+2026-06-29 15:38:13.107 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:38:15.472 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:38:16.237 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:38:17.567 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:38:19.767 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:38:22.902 [info] > git config --get commit.template [15ms]
+2026-06-29 15:38:22.905 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [17ms]
+2026-06-29 15:38:22.905 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:38:22.917 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:38:22.933 [info] > git status -z -uall [16ms]
+2026-06-29 15:38:22.933 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [15ms]
+2026-06-29 15:38:27.950 [info] > git config --get commit.template [13ms]
+2026-06-29 15:38:27.951 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [14ms]
+2026-06-29 15:38:27.951 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:38:27.962 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:38:27.975 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-06-29 15:38:27.975 [info] > git status -z -uall [12ms]
+2026-06-29 15:38:32.076 [info] > git check-ignore -v -z --stdin [26ms]
+2026-06-29 15:38:32.094 [info] > git ls-files --stage -- page-8.html [16ms]
+2026-06-29 15:38:32.095 [info] > git show --textconv :page-8.html [18ms]
+2026-06-29 15:38:32.106 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [12ms]
+2026-06-29 15:38:34.959 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:38:36.954 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:38:38.628 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:38:42.641 [info] > git config --get commit.template [20ms]
+2026-06-29 15:38:42.643 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [20ms]
+2026-06-29 15:38:42.643 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:38:42.657 [info] > git rev-parse refs/remotes/origin/main [14ms]
+2026-06-29 15:38:42.672 [info] > git status -z -uall [14ms]
+2026-06-29 15:38:42.672 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-06-29 15:38:51.490 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:38:51.505 [info] > git ls-files --stage -- page-7.html [12ms]
+2026-06-29 15:38:51.506 [info] > git show --textconv :page-7.html [13ms]
+2026-06-29 15:38:51.518 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [12ms]
+2026-06-29 15:38:54.115 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:38:56.793 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:38:57.226 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:38:58.018 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:38:59.558 [info] > git config --get commit.template [17ms]
+2026-06-29 15:38:59.560 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [18ms]
+2026-06-29 15:38:59.560 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:38:59.573 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2026-06-29 15:38:59.588 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:38:59.588 [info] > git status -z -uall [14ms]
+2026-06-29 15:39:06.433 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:39:06.449 [info] > git ls-files --stage -- page-6.html [14ms]
+2026-06-29 15:39:06.450 [info] > git show --textconv :page-6.html [15ms]
+2026-06-29 15:39:06.463 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [13ms]
+2026-06-29 15:39:10.294 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:39:12.286 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:39:14.571 [info] > git check-ignore -v -z --stdin [25ms]
+2026-06-29 15:39:16.071 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:39:18.370 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:39:20.104 [info] > git config --get commit.template [15ms]
+2026-06-29 15:39:20.105 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [16ms]
+2026-06-29 15:39:20.106 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:39:20.117 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:39:20.132 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:39:20.132 [info] > git status -z -uall [14ms]
+2026-06-29 15:39:27.247 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:39:27.266 [info] > git ls-files --stage -- page-5.html [15ms]
+2026-06-29 15:39:27.268 [info] > git ls-tree -l HEAD -- page-5.html [17ms]
+2026-06-29 15:39:27.268 [info] > git show --textconv HEAD:page-5.html [18ms]
+2026-06-29 15:39:27.268 [info] > git show --textconv :page-5.html [18ms]
+2026-06-29 15:39:27.279 [info] > git cat-file -s 58b8f55fc0a9976fcb1504ca59c0ea335e44397d [12ms]
+2026-06-29 15:39:30.885 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:39:31.922 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:39:32.230 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:39:34.672 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:39:36.488 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:39:38.792 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:39:40.740 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:39:44.189 [info] > git config --get commit.template [17ms]
+2026-06-29 15:39:44.190 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [16ms]
+2026-06-29 15:39:44.191 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:39:44.203 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:39:44.216 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-06-29 15:39:44.216 [info] > git status -z -uall [13ms]
+2026-06-29 15:39:53.860 [info] > git check-ignore -v -z --stdin [13ms]
+2026-06-29 15:39:53.874 [info] > git ls-files --stage -- page-4.html [12ms]
+2026-06-29 15:39:53.875 [info] > git show --textconv HEAD:page-4.html [13ms]
+2026-06-29 15:39:53.875 [info] > git show --textconv :page-4.html [14ms]
+2026-06-29 15:39:53.875 [info] > git ls-tree -l HEAD -- page-4.html [13ms]
+2026-06-29 15:39:53.886 [info] > git cat-file -s 44732bb091bd7931fb39d2bb47fdcbd498280815 [12ms]
+2026-06-29 15:39:57.519 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:39:59.249 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:40:01.554 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:40:04.456 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:40:07.149 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:40:08.931 [info] > git config --get commit.template [13ms]
+2026-06-29 15:40:08.932 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [13ms]
+2026-06-29 15:40:08.933 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:40:08.944 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:40:08.959 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:40:08.959 [info] > git status -z -uall [14ms]
+2026-06-29 15:40:10.470 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:40:10.483 [info] > git ls-files --stage -- page-3.html [11ms]
+2026-06-29 15:40:10.484 [info] > git ls-tree -l HEAD -- page-3.html [12ms]
+2026-06-29 15:40:10.484 [info] > git show --textconv HEAD:page-3.html [13ms]
+2026-06-29 15:40:10.485 [info] > git show --textconv :page-3.html [14ms]
+2026-06-29 15:40:10.495 [info] > git cat-file -s e3e961cc9b2f1add99ceccd6bc9a856e8dbe0be5 [12ms]
+2026-06-29 15:40:15.515 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:40:16.891 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:40:18.440 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:40:20.009 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:40:21.584 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:40:24.077 [info] > git config --get commit.template [20ms]
+2026-06-29 15:40:24.079 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [22ms]
+2026-06-29 15:40:24.079 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:40:24.091 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:40:24.105 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:40:24.106 [info] > git status -z -uall [14ms]
+2026-06-29 15:40:25.101 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:40:25.114 [info] > git ls-files --stage -- page-2.html [11ms]
+2026-06-29 15:40:25.115 [info] > git show --textconv HEAD:page-2.html [13ms]
+2026-06-29 15:40:25.115 [info] > git ls-tree -l HEAD -- page-2.html [12ms]
+2026-06-29 15:40:25.115 [info] > git show --textconv :page-2.html [13ms]
+2026-06-29 15:40:25.128 [info] > git cat-file -s c4be663aff99b4957d6971a3e76331fa50a050fb [14ms]
+2026-06-29 15:40:28.428 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:40:28.443 [info] > git ls-files --stage -- index.html [12ms]
+2026-06-29 15:40:28.443 [info] > git ls-tree -l HEAD -- index.html [12ms]
+2026-06-29 15:40:28.444 [info] > git show --textconv HEAD:index.html [14ms]
+2026-06-29 15:40:28.444 [info] > git show --textconv :index.html [14ms]
+2026-06-29 15:40:28.455 [info] > git cat-file -s 340e5ec39f937bf5f8da7c8e80f65f1766ae0924 [12ms]
+2026-06-29 15:40:33.686 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:40:33.699 [info] > git ls-files --stage -- page-7.html [11ms]
+2026-06-29 15:40:33.700 [info] > git show --textconv :page-7.html [12ms]
+2026-06-29 15:40:33.712 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [12ms]
+2026-06-29 15:40:34.207 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:40:34.219 [info] > git ls-files --stage -- page-8.html [10ms]
+2026-06-29 15:40:34.220 [info] > git show --textconv :page-8.html [12ms]
+2026-06-29 15:40:34.230 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [11ms]
+2026-06-29 15:40:54.829 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:40:54.841 [info] > git ls-files --stage -- page-9.html [10ms]
+2026-06-29 15:40:54.843 [info] > git show --textconv :page-9.html [12ms]
+2026-06-29 15:40:54.852 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [10ms]
+2026-06-29 15:41:16.986 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:41:16.999 [info] > git ls-files --stage -- page-10.html [11ms]
+2026-06-29 15:41:17.000 [info] > git show --textconv :page-10.html [12ms]
+2026-06-29 15:41:17.010 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [11ms]
+2026-06-29 15:41:20.615 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:41:39.427 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:41:39.625 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:41:40.279 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:41:42.012 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:41:42.816 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:41:47.663 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:41:51.763 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:41:54.886 [info] > git check-ignore -v -z --stdin [11ms]
+2026-06-29 15:41:57.995 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:42:11.510 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:42:13.538 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:14.478 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:15.992 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:16.566 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:42:17.661 [info] > git check-ignore -v -z --stdin [23ms]
+2026-06-29 15:42:18.264 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:18.486 [info] > git check-ignore -v -z --stdin [25ms]
+2026-06-29 15:42:18.688 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:42:19.194 [info] > git check-ignore -v -z --stdin [24ms]
+2026-06-29 15:42:19.730 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:42:20.010 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:20.283 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:20.504 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:42:20.779 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:23.538 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:42:23.766 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:24.318 [info] > git check-ignore -v -z --stdin [27ms]
+2026-06-29 15:42:24.720 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:25.228 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:25.553 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:25.782 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:42:26.009 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:42:26.233 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:26.857 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:27.719 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:28.152 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:28.525 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:29.101 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:29.816 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:30.191 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:42:30.412 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:30.704 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:42:31.375 [info] > git check-ignore -v -z --stdin [25ms]
+2026-06-29 15:42:31.595 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:32.128 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:32.502 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:32.763 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:33.629 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:42:34.840 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:35.361 [info] > git check-ignore -v -z --stdin [27ms]
+2026-06-29 15:42:35.568 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:35.917 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:36.206 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:37.508 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:42:38.240 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:40.280 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:42.705 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:42:45.074 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:42:46.756 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:48.676 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:42:52.493 [info] > git config --get commit.template [20ms]
+2026-06-29 15:42:52.495 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [17ms]
+2026-06-29 15:42:52.495 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:42:52.506 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:42:52.518 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [11ms]
+2026-06-29 15:42:52.518 [info] > git status -z -uall [12ms]
+2026-06-29 15:44:19.647 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:44:21.831 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:44:22.421 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:44:23.408 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:44:23.973 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:44:25.019 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:44:25.627 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:44:26.253 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:44:27.810 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:44:28.125 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:44:28.640 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:44:28.951 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:44:29.627 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:44:29.835 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:44:30.202 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:44:30.429 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:44:31.579 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:44:35.924 [info] > git config --get commit.template [21ms]
+2026-06-29 15:44:35.926 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [22ms]
+2026-06-29 15:44:35.926 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:44:35.938 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:44:35.952 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:44:35.953 [info] > git status -z -uall [14ms]
+2026-06-29 15:44:54.474 [info] > git config --get commit.template [25ms]
+2026-06-29 15:44:54.475 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [25ms]
+2026-06-29 15:44:54.476 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:44:54.495 [info] > git rev-parse refs/remotes/origin/main [19ms]
+2026-06-29 15:44:54.509 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:44:54.509 [info] > git status -z -uall [13ms]
+2026-06-29 15:45:13.536 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:45:14.911 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:45:19.501 [info] > git check-ignore -v -z --stdin [17ms]
+2026-06-29 15:45:26.895 [info] > git config --get commit.template [17ms]
+2026-06-29 15:45:26.898 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [19ms]
+2026-06-29 15:45:26.899 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:45:26.911 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:45:26.924 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [11ms]
+2026-06-29 15:45:26.925 [info] > git status -z -uall [13ms]
+2026-06-29 15:45:40.787 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:45:44.239 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:45:44.252 [info] > git ls-files --stage -- page-9.html [11ms]
+2026-06-29 15:45:44.252 [info] > git show --textconv :page-9.html [12ms]
+2026-06-29 15:45:44.263 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [11ms]
+2026-06-29 15:45:46.433 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:45:46.451 [info] > git ls-files --stage -- page-8.html [12ms]
+2026-06-29 15:45:46.452 [info] > git show --textconv :page-8.html [13ms]
+2026-06-29 15:45:46.463 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [12ms]
+2026-06-29 15:45:48.139 [info] > git check-ignore -v -z --stdin [12ms]
+2026-06-29 15:45:48.156 [info] > git ls-files --stage -- page-7.html [11ms]
+2026-06-29 15:45:48.157 [info] > git show --textconv :page-7.html [13ms]
+2026-06-29 15:45:48.169 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [12ms]
+2026-06-29 15:45:49.956 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:45:49.971 [info] > git ls-files --stage -- page-6.html [13ms]
+2026-06-29 15:45:49.971 [info] > git show --textconv :page-6.html [14ms]
+2026-06-29 15:45:49.983 [info] > git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc [12ms]
+2026-06-29 15:45:52.612 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:45:54.266 [info] > git check-ignore -v -z --stdin [14ms]
+2026-06-29 15:45:54.280 [info] > git ls-files --stage -- page-5.html [12ms]
+2026-06-29 15:45:54.281 [info] > git ls-tree -l HEAD -- page-5.html [13ms]
+2026-06-29 15:45:54.282 [info] > git show --textconv HEAD:page-5.html [14ms]
+2026-06-29 15:45:54.282 [info] > git show --textconv :page-5.html [15ms]
+2026-06-29 15:45:54.292 [info] > git cat-file -s 58b8f55fc0a9976fcb1504ca59c0ea335e44397d [11ms]
+2026-06-29 15:45:56.605 [info] > git check-ignore -v -z --stdin [16ms]
+2026-06-29 15:45:56.620 [info] > git ls-files --stage -- page-4.html [13ms]
+2026-06-29 15:45:56.621 [info] > git ls-tree -l HEAD -- page-4.html [14ms]
+2026-06-29 15:45:56.621 [info] > git show --textconv HEAD:page-4.html [14ms]
+2026-06-29 15:45:56.622 [info] > git show --textconv :page-4.html [16ms]
+2026-06-29 15:45:56.632 [info] > git cat-file -s 44732bb091bd7931fb39d2bb47fdcbd498280815 [12ms]
+2026-06-29 15:45:58.396 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:45:58.409 [info] > git ls-files --stage -- page-3.html [11ms]
+2026-06-29 15:45:58.411 [info] > git ls-tree -l HEAD -- page-3.html [13ms]
+2026-06-29 15:45:58.411 [info] > git show --textconv HEAD:page-3.html [13ms]
+2026-06-29 15:45:58.412 [info] > git show --textconv :page-3.html [15ms]
+2026-06-29 15:45:58.421 [info] > git cat-file -s e3e961cc9b2f1add99ceccd6bc9a856e8dbe0be5 [11ms]
+2026-06-29 15:45:59.917 [info] > git check-ignore -v -z --stdin [15ms]
+2026-06-29 15:45:59.932 [info] > git ls-files --stage -- page-2.html [13ms]
+2026-06-29 15:45:59.933 [info] > git ls-tree -l HEAD -- page-2.html [13ms]
+2026-06-29 15:45:59.933 [info] > git show --textconv HEAD:page-2.html [14ms]
+2026-06-29 15:45:59.934 [info] > git show --textconv :page-2.html [15ms]
+2026-06-29 15:45:59.945 [info] > git cat-file -s c4be663aff99b4957d6971a3e76331fa50a050fb [12ms]
+2026-06-29 15:46:02.567 [info] > git check-ignore -v -z --stdin [22ms]
+2026-06-29 15:46:03.844 [info] > git check-ignore -v -z --stdin [18ms]
+2026-06-29 15:46:03.860 [info] > git ls-files --stage -- index.html [13ms]
+2026-06-29 15:46:03.861 [info] > git ls-tree -l HEAD -- index.html [13ms]
+2026-06-29 15:46:03.861 [info] > git show --textconv HEAD:index.html [14ms]
+2026-06-29 15:46:03.861 [info] > git show --textconv :index.html [15ms]
+2026-06-29 15:46:03.872 [info] > git cat-file -s 340e5ec39f937bf5f8da7c8e80f65f1766ae0924 [12ms]
+2026-06-29 15:46:06.160 [info] > git check-ignore -v -z --stdin [21ms]
+2026-06-29 15:46:08.387 [info] > git config --get commit.template [14ms]
+2026-06-29 15:46:08.389 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [15ms]
+2026-06-29 15:46:08.389 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:46:08.400 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:46:08.413 [info] > git status -z -uall [12ms]
+2026-06-29 15:46:08.413 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-06-29 15:46:13.439 [info] > git config --get commit.template [20ms]
+2026-06-29 15:46:13.440 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [20ms]
+2026-06-29 15:46:13.441 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:46:13.452 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:46:13.464 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [11ms]
+2026-06-29 15:46:13.464 [info] > git status -z -uall [12ms]
+2026-06-29 15:49:03.922 [info] > git config --get commit.template [14ms]
+2026-06-29 15:49:03.924 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [15ms]
+2026-06-29 15:49:03.924 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:49:03.936 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:49:03.950 [info] > git status -z -uall [13ms]
+2026-06-29 15:49:03.950 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:49:08.001 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [124ms]
+2026-06-29 15:49:08.020 [info] > git merge-base main origin/main [13ms]
+2026-06-29 15:49:09.223 [info] > git -c user.useConfigOnly=true commit --quiet [15ms]
+2026-06-29 15:49:09.223 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2026-06-29 15:49:09.235 [info] > git config --get-all user.name [11ms]
+2026-06-29 15:49:09.247 [info] > git config --get commit.template [11ms]
+2026-06-29 15:49:09.248 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [11ms]
+2026-06-29 15:49:09.248 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:49:09.259 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:49:09.270 [info] > git status -z -uall [11ms]
+2026-06-29 15:49:09.271 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [11ms]
+2026-06-29 15:49:10.435 [info] > git config --get commit.template [19ms]
+2026-06-29 15:49:10.437 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [18ms]
+2026-06-29 15:49:10.438 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:49:10.451 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2026-06-29 15:49:10.464 [info] > git status -z -uall [13ms]
+2026-06-29 15:49:10.464 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-06-29 15:49:10.530 [info] > git ls-files --stage -- index.html [14ms]
+2026-06-29 15:49:10.532 [info] > git ls-tree -l HEAD -- index.html [15ms]
+2026-06-29 15:49:10.544 [info] > git cat-file -s 340e5ec39f937bf5f8da7c8e80f65f1766ae0924 [13ms]
+2026-06-29 15:49:10.544 [info] > git show --textconv HEAD:index.html [11ms]
+2026-06-29 15:49:10.556 [info] > git show --textconv :index.html [11ms]
+2026-06-29 15:49:15.421 [info] > git -c user.useConfigOnly=true commit --quiet [19ms]
+2026-06-29 15:49:15.421 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2026-06-29 15:49:15.435 [info] > git config --get-all user.name [14ms]
+2026-06-29 15:49:15.449 [info] > git config --get commit.template [13ms]
+2026-06-29 15:49:15.450 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [13ms]
+2026-06-29 15:49:15.451 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:49:15.462 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:49:15.477 [info] > git status -z -uall [14ms]
+2026-06-29 15:49:15.477 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-06-29 15:49:16.525 [info] > git config --get commit.template [14ms]
+2026-06-29 15:49:16.526 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [14ms]
+2026-06-29 15:49:16.526 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:49:16.538 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2026-06-29 15:49:16.553 [info] > git status -z -uall [14ms]
+2026-06-29 15:49:16.554 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-06-29 15:49:16.624 [info] > git ls-files --stage -- index.html [12ms]
+2026-06-29 15:49:16.625 [info] > git ls-tree -l HEAD -- index.html [13ms]
+2026-06-29 15:49:16.637 [info] > git cat-file -s 340e5ec39f937bf5f8da7c8e80f65f1766ae0924 [13ms]
+2026-06-29 15:49:16.639 [info] > git show --textconv HEAD:index.html [12ms]
+2026-06-29 15:49:16.651 [info] > git show --textconv :index.html [13ms]
+2026-06-29 15:49:20.396 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% 5dcecd303ad58bfef06c8dde92b8a1077c847175...15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- [19ms]
+2026-06-29 15:49:20.925 [info] > git check-ignore -v -z --stdin [20ms]
+2026-06-29 15:49:28.509 [info] > git ls-tree -l 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- assets/css/styles.css [15ms]
+2026-06-29 15:49:28.510 [info] > git show --textconv 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6:assets/css/styles.css [17ms]
+2026-06-29 15:49:29.018 [info] > git check-ignore -v -z --stdin [19ms]
+2026-06-29 15:49:46.589 [info] > git ls-tree -l 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- assets/css/styles.css [16ms]
+2026-06-29 15:49:53.057 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [77ms]
+2026-06-29 15:49:53.075 [info] > git merge-base main origin/main [13ms]
+2026-06-29 15:49:53.092 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% 5dcecd303ad58bfef06c8dde92b8a1077c847175...15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- [13ms]
+2026-06-29 15:49:53.947 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [84ms]
+2026-06-29 15:49:53.968 [info] > git merge-base main origin/main [14ms]
+2026-06-29 15:49:53.985 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% 5dcecd303ad58bfef06c8dde92b8a1077c847175...15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- [14ms]
+2026-06-29 15:49:55.722 [info] > git -c user.useConfigOnly=true commit --quiet [20ms]
+2026-06-29 15:49:55.722 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2026-06-29 15:49:55.738 [info] > git config --get-all user.name [15ms]
+2026-06-29 15:49:55.752 [info] > git config --get commit.template [13ms]
+2026-06-29 15:49:55.753 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [13ms]
+2026-06-29 15:49:55.754 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:49:55.765 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2026-06-29 15:49:55.780 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2026-06-29 15:49:55.780 [info] > git status -z -uall [14ms]
+2026-06-29 15:49:56.931 [info] > git config --get commit.template [18ms]
+2026-06-29 15:49:56.933 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [18ms]
+2026-06-29 15:49:56.934 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:49:56.947 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2026-06-29 15:49:56.962 [info] > git status -z -uall [14ms]
+2026-06-29 15:49:56.963 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2026-06-29 15:49:57.027 [info] > git ls-tree -l 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6 -- assets/css/styles.css [13ms]
+2026-06-29 15:49:57.042 [info] > git show --textconv 15b8dc75c67f12ec6e493734e6c9ffdbfe38f3b6:assets/css/styles.css [13ms]
+2026-06-29 15:50:01.979 [info] > git config --get commit.template [14ms]
+2026-06-29 15:50:01.980 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [14ms]
+2026-06-29 15:50:01.981 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/Users/peyton/hyperlinkwebsite/.git/refs/remotes/origin/main'
+2026-06-29 15:50:01.995 [info] > git rev-parse refs/remotes/origin/main [14ms]
+2026-06-29 15:50:02.016 [info] > git status -z -uall [20ms]
+2026-06-29 15:50:02.018 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [22ms]
